@@ -2,8 +2,6 @@
 
 ### A developer from Taiwan
 
-<a href="https://twitter.com/single9" target="blank"><img src="https://img.shields.io/twitter/follow/single9?logo=twitter&style=for-the-badge" alt="single9" /></a>
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://duye.single9.net/#projects](https://duye.single9.net/#projects)
